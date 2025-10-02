@@ -1,4 +1,4 @@
-📊 Customer Churn Prediction Dashboard (Telco Dataset - Kaggle) 
+📊 Customer Churn Prediction Dashboard (Telco Dataset - Kaggle) PowerBi Project
 
 This Customer Churn Prediction Dashboard is built using Power BI to analyze churn patterns and their business impact. Using the Telco Customer Churn Dataset from Kaggle, it provides actionable insights to help businesses improve customer retention strategies.
 
